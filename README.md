@@ -1,2 +1,2 @@
-# simon-says-game
-My simon says game site
+# simon
+My simon game site
